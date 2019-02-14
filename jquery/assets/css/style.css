@@ -1,0 +1,28 @@
+
+
+footer{
+    padding: 10px;
+}
+
+.section{
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+}
+body,
+p, ul,li{
+    text-align:justify;
+}
+h1, h3{
+    text-align: center;
+}
+img.h-50{
+    height: 80px;
+    float: right;
+}
+.ans{
+    font-size: 20px;
+}
+/* .rid .card{
+    margin-right:5px;
+} */
+
